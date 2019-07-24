@@ -1,0 +1,66 @@
+body {
+ color: black;
+  border: 10px solid yellow;
+  background-color: purple;
+}
+.pinkboarder {
+  color:black
+  font-size: 25px;
+}
+
+#headingborder{
+  border: 50px solid black;
+
+}
+
+.handsomecb {
+  height: 200px;
+  width: 200px;
+}
+
+#handsomecb{
+  box-shadow: 1px 10px orange;
+  border-radius: 300px;
+}
+
+.purplecontainer {
+  border: 1px solid purple;
+}
+
+.orangecontainer {
+  border: 1px solid orange;
+  display: flex;
+  justify-content: space-around;
+  flex-flow: row wrap;
+
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
+
+#fonty{
+  color: blue;
+  font-family: 'Bungee Outline', cursive;
+  font-size: 50px;
+  text-align: center;
+}
+
+#frog {
+  height: 50%;
+}
+
+.bulldog{
+  height: 245px;
+  width: 245px;
+
+}
+
+#bulldoglogo{
+  height: 200px
+}
+
+#bulldogquote{
+  height: 150px
+}
